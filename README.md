@@ -12,6 +12,8 @@ Sitio estático. La consola y el modelo 3D se publican cifrados (AES-GCM 256, cl
 | `p3d.enc.txt` | Modelo 3D del chancado primario, cifrado |
 | `.nojekyll` | Indica a GitHub Pages que sirva los archivos tal cual |
 | `robots.txt` | Evita la indexación en buscadores |
+| `favicon.ico`, `apple-touch-icon.png` | Ícono de Americorp |
+| `vendor/` | Librerías propias del sitio: three.js 0.160.0, SheetJS 0.18.5, jsPDF 2.5.1 |
 
 ## Publicar en GitHub Pages
 
